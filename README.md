@@ -19,7 +19,6 @@ To deploy and run this project on your local system, follow these steps:
 2. Install the following python libraries:
    
     ```bash
-    pip install Flask
     pip install selenium
     pip install pillow
     pip install opencv-python-headless
