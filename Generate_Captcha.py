@@ -1,7 +1,6 @@
 import os
 from selenium import webdriver
 from PIL import Image
-import shutil
 
 
 def capture_page_screenshot(url, output_directory="captured_images", crop_params=None):
