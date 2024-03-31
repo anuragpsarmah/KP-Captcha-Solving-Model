@@ -56,7 +56,7 @@ def main():
     # Example crop parameters: (left, top, right, bottom)
     crop_params = (338, 370, 465, 415)
 
-    for i in range(102,1000):
+    for i in range(1,1001):
         capture_page_screenshot(url, crop_params=crop_params)
 
 
